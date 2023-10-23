@@ -34,7 +34,7 @@ body{
 }
 .greetings > span:nth-child(1){
     animation-delay: .2s ;
-    margin-right: 35px;
+  
 }
 
 .greetings > span:nth-child(2){
